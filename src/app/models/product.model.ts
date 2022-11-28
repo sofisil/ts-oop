@@ -1,4 +1,4 @@
-import { Category } from "./category.model"
+import { Category } from "./category.model";
 
 export interface Product {
     id:          number;
@@ -7,4 +7,4 @@ export interface Product {
     description: string;
     category:    Category;
     images:      string[];
-}
+};

@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
     "@types/node": "^18.11.9",
     "ts-node": "^10.9.1",
     "tslib": "^2.4.1",
